@@ -1,5 +1,4 @@
-# 💫 About Me:
-🐺 About Me:<br><br>João Gabriel, 18 years<br>Web Developer Programmer<br>1 Years I started programming
+# 🐺 About Me:<br><br>João Gabriel, 18 years<br>Web Developer Programmer<br>1 Years I started programming
 
 
 ## 🌐 Socials:
@@ -15,4 +14,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Juuanzitoos&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

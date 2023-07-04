@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-Yooo!!! I'm João Gabriel, a brazilian programmer.
+🐧 Yooo!!! I'm João Gabriel, a brazilian programmer.
 </p>
 
 ## **🐺 About me:**
